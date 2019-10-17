@@ -1,3 +1,3 @@
-# GDP_and_CO2 2016 123
+# GDP_and_CO2 Constant 2010 US$
 
 I am a spooky ghost
